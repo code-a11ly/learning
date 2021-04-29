@@ -1,18 +1,18 @@
-# Let's learn programing?
+# :rocket: Let's learn programing?
 
-### About:
+### :page_facing_up: About:
 this is a repository that I created to from the notes
 that I was and am making about programing to try to help
 people to learn it
 
-### What do you need to follow along:
+### :computer: What do you need to follow along:
 
  - A computer
  - A text editor
     - I recommend vscode or sublime
       cause both are free and simple to use
 
-### What you will find here?
+### :mag_right: What you will find here?
 
 In this repo you will find notes about the following
 languages:
