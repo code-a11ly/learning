@@ -9,8 +9,10 @@ people to learn it
 
  - A computer
  - A text editor
-    - I recommend vscode or sublime
-      cause both are free and simple to use
+    - I recommend VSCode or SublimeText
+ - A web browser
+    - For JavaScript and PHP
+
 
 ### :mag_right: What you will find here?
 
