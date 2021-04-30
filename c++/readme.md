@@ -7,3 +7,12 @@ created based on C, but them what are the differences
 between then? well C covers every aspect of the C++
 exept OOP (Object Oriented Programing), which is the
 inovation of C++.
+
+### WHEN AND WHO MADE:
+
+
+
+__NOTE:__ As already said this is will not be a full guide to
+any programing language, as they are just notes that I took
+along my leaning jorney, and too do not contain eveything
+that I know about them.
