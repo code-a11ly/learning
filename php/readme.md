@@ -4,7 +4,7 @@
 
 
 
-### WHEN AND WHO MADE:
+### When and who made:
 
 
 
