@@ -2,6 +2,9 @@
 
 ### About:
 
+PHP is a web type programing language and it was
+created in order to handle the backside of the
+same.
 
 
 ### When and who made:
