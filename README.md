@@ -24,7 +24,7 @@ languages:
     - JavaScript
     - PHP
 
-__NOTE:__ As per natural this is will not be a full guide to
+:pushpin: __NOTE:__ As per natural this is will not be a full guide to
 any programing language, as they are just notes that I took
 along my leaning jorney, and too do not contain eveything
 that I know about them.

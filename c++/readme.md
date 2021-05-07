@@ -1,14 +1,14 @@
 # C++
 
-### About:
+### :page_facing_up: About:
 
-C++ ou cpp is a fast programing language, which was
+C++ or cpp is a fast programing language, which was
 created based on C, but then what are the differences
 between then? well C covers every aspect of the C++
 exept OOP (Object Oriented Programing), which is the
 inovation of C++.
 
-### When and who made:
+### :scroll: History:
 
 
 
