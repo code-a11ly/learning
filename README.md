@@ -18,7 +18,6 @@ people to learn it
 
 In this repo you will find notes about the following
 languages:
-
     - <a href="" >Python</a>
     - <a href="c++" >C++</a>
     - <a href="javascript" >JavaScript</a>
