@@ -19,10 +19,11 @@ people to learn it
 In this repo you will find notes about the following
 languages:
 
-    - Python
-    - C++
-    - JavaScript
-    - PHP
+    - <a href="" >Python</a>
+    - <a href="c++" >C++</a>
+    - <a href="javascript" >JavaScript</a>
+        - <a href="react" >React</a>
+    - <a href="php" >PHP</a>
 
 :pushpin: __NOTE:__ As per natural this is will not be a full guide to
 any programing language, as they are just notes that I took
