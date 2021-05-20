@@ -9,12 +9,11 @@ C is the fastest high level know programing language
 
 
 ### Contents:
-<br>
-<br><a href="comments.c">Comments</a>
-<br><a href="basicStructure.c">Basic Stricture</a>
-<br><a href="variableTypes.c">Variable Types</a>
-<br><a href="output.c">Output</a>
-<br><a href="input.c">Input</a>
+- <a href="comments.c">Comments</a><br>
+- <a href="basicStructure.c">Basic Stricture</a><br>
+- <a href="variableTypes.c">Variable Types</a><br>
+- <a href="output.c">Output</a><br>
+- <a href="input.c">Input</a><br>
 
 
 :pushpin: __NOTE:__ As already said this is will not be a full guide to
